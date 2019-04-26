@@ -1,0 +1,3 @@
+interpreted high-level programming language for gender pup us programming created by guido van awesome in first released in nineteen ninety run python has a design philosophy that emphasizes code readable
+to be using significant white space it provides construct staton able to programming on both small and large scales python features a dynamic type system and automatic memory management it's
+programming paradigms including object oriented embedded of functional in procedure and has a large in comprehensive standard library

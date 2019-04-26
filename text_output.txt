@@ -1,0 +1,3 @@
+interpreted high level programming language for general purpose programming created by guido van rossum and first released in 1991 person has a design philosophy that emphasizes goodreads
+multiply using significant whitespace it provides instructables layer programming on both small and large scale files and features a dynamic type system in automatic memory management with
+Programming Paradigms including object oriented imperative functional and procedural under the large and comprehensive standard library
